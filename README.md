@@ -1,3 +1,3 @@
-# SC663401 Basic Programming for Data Science and Data Visualization :thinking: </br>
-Puttipong Yangnork 643021268-1 
+## SC663401 Basic Programming for Data Science and Data Visualization :thinking: </br>
+Puttipong Yangnork 643021268-1 :bust_in_silhouette:
 

@@ -9,7 +9,7 @@
 **A top 10-15   B+ to F ตัดตามเกณฑ์**
 - Homework (Solo,Group-Random) 25%
 - Quiz (Solo) 10%
-- Project (Group-Choose-aeng) 30%
+- Project (Group-Choose-aeng) 30% กลุ่ม มิตรภาพลาบก้อย
 - Mid-term (Solo) 15%
 - Final (Group-Random) 20%
 

@@ -5,11 +5,11 @@
 :bust_in_silhouette: พุทธิพงศ์ ยางนอก 643021268-1 
 
 ## Grading :thinking:
-
+## Project Group มิตรภาพลาบก้อย
 **A top 10-15   B+ to F ตัดตามเกณฑ์**
 - Homework (Solo,Group-Random) 25%
 - Quiz (Solo) 10%
-- Project (Group-Choose-aeng) 30% กลุ่ม มิตรภาพลาบก้อย
+- Project (Group-Choose-aeng) 30% 
 - Mid-term (Solo) 15%
 - Final (Group-Random) 20%
 
